@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" , "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod sed, consequatur suscipit. Incidunt illo praesentium, quaerat tenetur labore! Magni, " },
-    { "id": 2, "title": "Post 2" , "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, officia. Ipsam debitis magni, facilis in consequatur, consectetur hic ipsa fuga ab et dignissimos, ad impedit" },
-    { "id": 3, "title": "Post 3" , "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et omnis unde atque, beatae, iusto, dolorem vitae a dicta fugit aperiam accusamus!" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "welcome-message": {
-    "msg": "Welcome To Demo Website | This From My Json-Server"
-  }
+  "api":{
+  "login":{
+  _id:123,
+  "email":"tony@stark.com",
+  "token":"jarvis"}
 }
