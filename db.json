@@ -1,9 +1,27 @@
 {
- 
-  "login":{
-  "_id":123,
-  "email":"tony@stark.com",
-  "token":"jarvis",
-  "code": "8h9sp7"
-  }
+  en: {
+    GALI: 'GALI',
+    DESAWAR: 'DESAWAR',
+    FARIDABAD: 'FARIDABAD',
+    GAZIABAD: 'GAZIABAD',
+    HOSHIYARPUR: 'HOSHIYARPUR',
+    AGRA: 'AGRA',
+    'DELHI DARBAR': 'DELHI DARBAR',
+    login: 'Log in',
+    changeLangauge: 'Change Language',
+    logout: 'Log out',
+    Deshawar: 'Deshawar',
+  },
+  hi: {
+    GALI: 'गली',
+    DESAWAR: 'देसावर',
+    FARIDABAD: 'फरीदाबाद',
+    GAZIABAD: 'गाजियाबाद',
+    HOSHIYARPUR: 'HOSHIYARPUR',
+    'DELHI DARBAR': 'दिल्ली दरबार',
+    login: 'लॉगिन करे',
+    logout: 'लॉग आउट करें',
+    changeLangauge: 'भाषा बदलें',
+    Deshawar: 'देसावर',
+  },
 }
